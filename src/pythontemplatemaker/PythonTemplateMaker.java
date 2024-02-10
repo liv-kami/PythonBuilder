@@ -1,6 +1,7 @@
 
 package pythontemplatemaker;
 
+import java.awt.Desktop;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -37,6 +38,7 @@ public class PythonTemplateMaker {
                 FileWriter w = new FileWriter(fullOne);
                 w.write(template(f + ".py"));
                 w.close();
+                Desktop.getDesktop().open(fi);
             }
         } catch (IOException ex) {
             Logger.getLogger(PythonTemplateMaker.class.getName()).log(Level.SEVERE, null, ex);
