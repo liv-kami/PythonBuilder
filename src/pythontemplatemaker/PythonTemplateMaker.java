@@ -53,7 +53,7 @@ public class PythonTemplateMaker {
 "Name: \n" +
 "Date: \n" +
 "Class: ISCS210 Python Programming\n" +
-"Filename: "+filename + ".py\n" +
+"Filename: "+filename + "\n" +
 "Desc:\n" +
 "\"\"\"\n" +
 "#-----------------------------------------------------------------------------------------------\n" +
