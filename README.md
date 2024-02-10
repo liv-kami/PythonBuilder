@@ -2,8 +2,10 @@
 Read the following Instructions below for how to download, install, and use the app as well as contributing and reporting issues on the repository.
 
 ### Table of Contents:
+#### Downloads:
 [Mac ARM Download](#mac-arm-download)
 
+#### Installations:
 [Mac ARM Installation](#mac-arm-installation)
 
 # Download Instructions:
